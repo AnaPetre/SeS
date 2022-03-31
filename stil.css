@@ -1,0 +1,11 @@
+<style>
+
+table td, table tr, table th{
+	border: 1px solid black;
+  text-align: left;
+}
+table thead{
+	background:#ccc;
+}
+
+</style>
